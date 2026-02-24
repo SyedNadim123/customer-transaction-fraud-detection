@@ -15,7 +15,7 @@ The pipeline covers everything from exploratory data analysis and class rebalanc
 
 ## 🎯 Problem Statement
 
-> *How can a machine learning pipeline be designed to achieve high predictive accuracy, maintain interpretability, handle severe class imbalance, and adapt to evolving fraud patterns in real-world financial environments?*
+How can a machine learning pipeline be designed to achieve high predictive accuracy, maintain interpretability, handle severe class imbalance, and adapt to evolving fraud patterns in real-world financial environments?
 
 ---
 
